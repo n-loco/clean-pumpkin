@@ -2,4 +2,8 @@
 *.swp
 
 # packages
-/build/
+/dist/
+
+# textures
+/build/bedrock/textures/
+/build/java/assets/minecraft/textures
